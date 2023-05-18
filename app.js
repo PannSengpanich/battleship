@@ -46,3 +46,4 @@ const battleship = new Ship("destroyer", 4);
 const carrier = new Ship("destroyer", 5);
 
 const ships = [destroyer, submarine, cruiser, battleship, carrier];
+
